@@ -1,0 +1,27 @@
+/* Layout.css */
+
+.navbar-nav .nav-link {
+  font-size: 1.05rem; /* Slightly larger text */
+  padding: 8px 15px;
+  font-weight: 500;
+  color: #fff;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #0d6efd;
+  transition: color 0.2s ease-in-out;
+}
+
+/* Buttons */
+.btn-rounded {
+  border-radius: 50px;
+  font-weight: 500;
+  padding: 6px 20px;
+  font-size: 0.95rem;
+}
+
+.btn-outline-primary:hover {
+  background-color: #0d6efd;
+  color: #fff;
+  border-color: #0d6efd;
+}
