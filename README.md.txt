@@ -1,23 +1,23 @@
-# 💼 CareerAdvisor-AI
+# CareerAdvisor-AI
 
 An AI-powered career guidance web application that helps students and job-seekers discover suitable career paths based on their skills and interests.
 
 ---
 
-## 🌟 Features
+## Features
 
-- 🔐 User Registration & Login
-- 📝 Profile Form to enter Interests & Skills
-- 🧠 AI-based Career Prediction (using Machine Learning model)
-- 📋 Clean & Professional User Interface (React)
-- 📤 Contact Form for user messages
-- 🌐 Connected to MySQL Database
-- 🧪 Backend API (ASP.NET Core) to handle logic
-- 📊 Data processed through Jupyter Notebook ML pipeline
+- User Registration & Login
+- Profile Form to enter Interests & Skills
+- AI-based Career Prediction (using Machine Learning model)
+- Clean & Professional User Interface (React)
+- Contact Form for user messages
+- Connected to MySQL Database
+- Backend API (ASP.NET Core) to handle logic
+- Data processed through Jupyter Notebook ML pipeline
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Frontend:** React (JSX)
 - **Backend:** .NET Core Web API (C#)
@@ -27,7 +27,7 @@ An AI-powered career guidance web application that helps students and job-seeker
 
 ---
 
-## 🔄 How It Works
+##  How It Works
 
 1. User signs up and logs in
 2. Fills in interests and skills
@@ -37,7 +37,7 @@ An AI-powered career guidance web application that helps students and job-seeker
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home Page
 ![Home](images/homepage.png)
@@ -67,6 +67,11 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial 
 
 ##  Contact
 
-Made by **Amman**  
+Made by Amman 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/amman-csstudent-7b345b370)  
 For demo access or collaboration: **contact me via GitHub or LinkedIn**
+
+Note: This is a demo version of my complete AI-based project **CareerAdvisorAI**.  
+The full version is available for collaboration or paid access.  
+Contact me via LinkedIn or email if interested.
+
