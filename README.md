@@ -31,7 +31,7 @@ To protect the integrity and value of the project, the full version is **not ope
 For inquiries about the full version, collaborations, or licensing opportunities, please contact:
 
 **Amman Anjum**  
-**Email:** your.email@example.com  
+**Email:** emaananjum634@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/amman-csstudent-7b345b370
 
 ---
